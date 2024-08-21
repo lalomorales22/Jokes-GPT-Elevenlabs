@@ -1,0 +1,6 @@
+Streamline
+Open
+Elevenlabs
+Python-dotenv
+Pandas
+Bumpy
