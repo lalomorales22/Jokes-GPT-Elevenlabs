@@ -21,25 +21,25 @@ The Comedy Script Generator is a desktop application that uses AI to transform y
 
 ## Installation
 
-1. Clone the repository or download the source code.
-
-2. Navigate to the project directory:
+1. Clone the repository or download the source code. 
+2. Git Clone https://github.com/lalomorales22/Jokes-GPT-Elevenlabs.git
+3. Navigate to the project directory:
    ```
-   cd path/to/comedy-script-generator
+   cd path/to/Jokes-GPT_Elevenlabs
    ```
 
-3. Create a virtual environment (optional but recommended):
+4. Create a virtual environment (optional but recommended):
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-4. Install the required packages:
+5. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
 
-5. Create a `.env` file in the project root and add your API keys:
+6. Create a `.env` file in the project root and add your API keys:
    ```
    OPENAI_API_KEY=your_openai_api_key_here
    ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
